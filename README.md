@@ -5,7 +5,7 @@
 <p> Este projeto eu desenvolvi como parte do meu curso de desenvolvimento FullStack na Trybe, esse é  meu primeiro projeto e constitui em uma página para listar todos os aprendizados que obtive e que terei durante meu curso na trybe.
 <br />
 <br>
-O objetivo do projeto foi colocar em prática os conhecimentos obtidos no primeiro bloco de funcademtos na Trybe.</p>
+O objetivo do projeto foi colocar em prática os conhecimentos obtidos no primeiro bloco de fundamentos na Trybe.</p>
 <details>
   <summary><strong>O que é a Trybe? 🤷🏽‍♀️</strong></summary><br />
 A Trybe é uma escola de desenvolvimento web genuinamente comprometida com o sucesso profissional de quem estuda com ela. O curso de desenvolvimento web fullstack contém mais de 1500 horas e é altamente orientado para a prática, onde aplicamos os conhecimentos obtidos em projetos como este.
